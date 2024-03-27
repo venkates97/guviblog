@@ -1,12 +1,12 @@
 export const dataset = [{
     category: "fsd",
     tittle: "Best Full-Stack Development Project Ideas in 2024 ",
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+    img: "https://d2ms8rpfqc4h24.cloudfront.net/Guide_to_Full_Stack_Development_000eb0b2d0.jpg",
     author: "Isha"
 },
 {
     tittle: "The Complete Guide to Full Stack Development",
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw-768x317.png",
+    img: "https://miro.medium.com/v2/resize:fit:800/1*iLa3E1yYHoYhOloCqQv36Q.png",
     author: "John Smith",
     category: "fsd"
 },
