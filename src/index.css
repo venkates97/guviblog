@@ -1,0 +1,21 @@
+#navbarNav {
+  justify-content: space-around;
+  align-items: center;
+}
+
+.blogCraetion {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.container {
+  display: flex;
+}
+
+.nav-link{
+  font-size:1.5rem;
+}
